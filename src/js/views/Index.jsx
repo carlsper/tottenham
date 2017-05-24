@@ -52,7 +52,7 @@ class StockApp extends Component {
     const headers = [
       'Name',
       'Estimated Return / Year',
-      'Years To Payoff',
+      'gdgd Per Years To Payoff',
       'Yield',
       'P/E',
       'Avg Dividend Ratio'
